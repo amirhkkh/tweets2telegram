@@ -1,7 +1,7 @@
 {
   "name": "tweets2telegram",
   "version": "1.0.0",
-  "repository": "https://github.com/amirhkkh/tweets2telegram",
+  "repository": "https://github.com/satrobit/tweets2telegram",
   "scripts": {
     "test": "mocha"
   },
